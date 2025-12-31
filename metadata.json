@@ -1,5 +1,5 @@
 {
-  "name": "Conecta+",
+  "name": "Conecta app",
   "description": "Uma plataforma inteligente de conexão profissional, rede social e marketplace, projetada para impulsionar talentos e negócios locais através de recomendações baseadas em IA e geolocalização.",
   "requestFramePermissions": [
     "geolocation",
